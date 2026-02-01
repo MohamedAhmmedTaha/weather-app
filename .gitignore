@@ -1,0 +1,8 @@
+# Kubernetes secrets
+auth-service/mysql/secret.yaml
+ui-service/secret.yaml
+weather-service/secret.yaml
+
+# TLS certs
+ui-service/tls.crt
+ui-service/tls.key
